@@ -1,5 +1,7 @@
 name: Resourcepack Zipper
 on: [push]
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
