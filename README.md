@@ -9,3 +9,4 @@ Current features:
 
 Planned features:
 - Craemon "Colored Bundles"
+- (Custom Items?)
