@@ -1,6 +1,6 @@
 Official Minelife SMP Resourcepack!
 
-Main branch automatically syncs with the Minecraft server!
+The main branch automatically syncs with the Minecraft server!
 
 Create Pull requests to suggest content!
 
