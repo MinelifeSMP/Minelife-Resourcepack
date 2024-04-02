@@ -2,7 +2,7 @@
   "parent":"minecraft:item/handheld",
   "textures":{"layer0":"minecraft:item/diamond_axe"},
   "overrides":[
-    {"predicate": {"custom_model_data": 1}, "model": "custom:item/tekeyn_netherite_axe"},
+    {"predicate": {"custom_model_data": 1}, "model": "custom:item/hammer"},
     {"predicate": {"trim_type": 0.1},"model": "trimmable_tools:item/diamond_axe_quartz_trim"},
     {"predicate": {"trim_type": 0.2},"model": "trimmable_tools:item/diamond_axe_iron_trim"},
     {"predicate": {"trim_type": 0.3},"model": "trimmable_tools:item/diamond_axe_netherite_trim"},
