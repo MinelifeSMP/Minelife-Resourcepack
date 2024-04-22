@@ -1,8 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "train_conductor_hat",
-		"particle": "train_conductor_hat"
+		"0": "custom:item/train_conductor_hat",
+		"particle": "custom:item/train_conductor_hat"
 	},
 	"elements": [
 		{
