@@ -1,6 +1,0 @@
-{
-    "parent": "coloredbundles:item/pink_bundle",
-    "textures": {
-        "layer0": "coloredbundles:item/pink_bundle_filled"
-    }
-}
