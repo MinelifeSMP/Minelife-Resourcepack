@@ -1,0 +1,42 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bundle"
+    },
+    "overrides": [
+        { "predicate": { "filled": 0.0000001 }, "model": "item/bundle_filled" },
+        { "predicate": { "custom_model_data":50101}, "model": "coloredbundles:item/white_bundle" },
+        { "predicate": { "custom_model_data":50101, "filled": 0.0000001}, "model": "coloredbundles:item/white_bundle_filled" },
+        { "predicate": { "custom_model_data":50102}, "model": "coloredbundles:item/black_bundle" },
+        { "predicate": { "custom_model_data":50102, "filled": 0.0000001}, "model": "coloredbundles:item/black_bundle_filled" },
+        { "predicate": { "custom_model_data":50103}, "model": "coloredbundles:item/gray_bundle" },
+        { "predicate": { "custom_model_data":50103, "filled": 0.0000001}, "model": "coloredbundles:item/gray_bundle_filled" },
+        { "predicate": { "custom_model_data":50104}, "model": "coloredbundles:item/light_gray_bundle" },
+        { "predicate": { "custom_model_data":50104, "filled": 0.0000001}, "model": "coloredbundles:item/light_gray_bundle_filled" },
+        { "predicate": { "custom_model_data":50105}, "model": "coloredbundles:item/blue_bundle" },
+        { "predicate": { "custom_model_data":50105, "filled": 0.0000001}, "model": "coloredbundles:item/blue_bundle_filled" },
+        { "predicate": { "custom_model_data":50106}, "model": "coloredbundles:item/brown_bundle" },
+        { "predicate": { "custom_model_data":50106, "filled": 0.0000001}, "model": "coloredbundles:item/brown_bundle_filled" },
+        { "predicate": { "custom_model_data":50107}, "model": "coloredbundles:item/cyan_bundle" },
+        { "predicate": { "custom_model_data":50107, "filled": 0.0000001}, "model": "coloredbundles:item/cyan_bundle_filled" },
+        { "predicate": { "custom_model_data":50108}, "model": "coloredbundles:item/green_bundle" },
+        { "predicate": { "custom_model_data":50108, "filled": 0.0000001}, "model": "coloredbundles:item/green_bundle_filled" },
+        { "predicate": { "custom_model_data":50109}, "model": "coloredbundles:item/light_blue_bundle" },
+        { "predicate": { "custom_model_data":50109, "filled": 0.0000001}, "model": "coloredbundles:item/light_blue_bundle_filled" },
+        { "predicate": { "custom_model_data":50110}, "model": "coloredbundles:item/lime_bundle" },
+        { "predicate": { "custom_model_data":50110, "filled": 0.0000001}, "model": "coloredbundles:item/lime_bundle_filled" },
+        { "predicate": { "custom_model_data":50111}, "model": "coloredbundles:item/magenta_bundle" },
+        { "predicate": { "custom_model_data":50111, "filled": 0.0000001}, "model": "coloredbundles:item/magenta_bundle_filled" },
+        { "predicate": { "custom_model_data":50112}, "model": "coloredbundles:item/orange_bundle" },
+        { "predicate": { "custom_model_data":50112, "filled": 0.0000001}, "model": "coloredbundles:item/orange_bundle_filled" },
+        { "predicate": { "custom_model_data":50113}, "model": "coloredbundles:item/pink_bundle" },
+        { "predicate": { "custom_model_data":50113, "filled": 0.0000001}, "model": "coloredbundles:item/pink_bundle_filled" },
+        { "predicate": { "custom_model_data":50114}, "model": "coloredbundles:item/purple_bundle" },
+        { "predicate": { "custom_model_data":50114, "filled": 0.0000001}, "model": "coloredbundles:item/purple_bundle_filled" },
+        { "predicate": { "custom_model_data":50115}, "model": "coloredbundles:item/red_bundle" },
+        { "predicate": { "custom_model_data":50115, "filled": 0.0000001}, "model": "coloredbundles:item/red_bundle_filled" },
+        { "predicate": { "custom_model_data":50116}, "model": "coloredbundles:item/yellow_bundle" },
+        { "predicate": { "custom_model_data":50116, "filled": 0.0000001}, "model": "coloredbundles:item/yellow_bundle_filled" }
+        
+    ]
+}
