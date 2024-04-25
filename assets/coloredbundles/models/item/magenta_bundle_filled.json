@@ -1,0 +1,6 @@
+{
+    "parent": "coloredbundles:item/magenta_bundle",
+    "textures": {
+        "layer0": "coloredbundles:item/magenta_bundle_filled"
+    }
+}
