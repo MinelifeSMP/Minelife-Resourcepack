@@ -6,11 +6,11 @@ Create Pull requests to suggest content!
 
 Current features:
 - Apollo "Tooltrims"
+- Craemon "Colored Bundles"
 - Custom Items (CMD)
     - Hammer
     - Train Conductor Hat
     - Craemon Totem
       
 Planned features:
-- Craemon "Colored Bundles"
 - More Custom Items
