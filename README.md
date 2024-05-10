@@ -12,7 +12,9 @@ Put armortrims on your tools!
 Dye your bundles like shulkerboxes!
 ## Custom Model Data
 ### Carved Pumpkin (Hats)
-    [1] Train Conductor Hat
+```
+[1] Train Conductor Hat
+```
 ### Totems
     [1] Craemon Totem
 ### Tools
