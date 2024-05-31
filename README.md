@@ -17,3 +17,5 @@ Dye your bundles like shulkerboxes!
     [1] Craemon Totem
 ### Tools
     [1] Hammer (put on axe)
+### Weapons
+    [1] 
