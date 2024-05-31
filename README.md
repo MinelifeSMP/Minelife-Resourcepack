@@ -14,4 +14,3 @@ Current features:
 Planned features:
 - Craemon "Colored Bundles"
 - More Custom Items
-- funstuff
