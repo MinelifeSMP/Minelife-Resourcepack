@@ -18,4 +18,4 @@ Dye your bundles like shulkerboxes!
 ### Tools
     [1] Hammer (put on axe)
 ### Weapons
-    [1] 
+    [1] Bamboo Staff
