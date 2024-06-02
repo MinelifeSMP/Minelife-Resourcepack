@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "block/texture",
+		"particle": "block/texture"
+	},
+	"elements": [
+		{
+			"name": "staff",
+			"from": [7, -16, 7],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 0, 7.5, 8], "texture": "#0"},
+				"east": {"uv": [7.5, 0, 8, 8], "texture": "#0"},
+				"south": {"uv": [0, 8, 0.5, 16], "texture": "#0"},
+				"west": {"uv": [8, 0, 8.5, 8], "texture": "#0"},
+				"up": {"uv": [0.5, 8, 1, 8.5], "texture": "#0", "cullface": "down"},
+				"down": {"uv": [1.5, 8, 1, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "leaves1",
+			"from": [0.8, 4, 8],
+			"to": [15.2, 20, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 4], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [3.5, 0, 7, 4], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "leaves2",
+			"from": [8, 4, 0.8],
+			"to": [8, 20, 15.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"east": {"uv": [0, 4, 3.5, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"west": {"uv": [3.5, 4, 7, 8], "texture": "#0"},
+				"up": {"uv": [0, 3.5, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.25, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0.75, 1.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.75, 1.75, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -43],
+			"translation": [1.25, 1.5, 1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [-42, -16, -75],
+			"translation": [25, -1, 8.75],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 3.25, -0.5],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "bamboo staff",
+			"origin": [7, 0, 7],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}
