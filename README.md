@@ -10,6 +10,9 @@ Current features:
     - Hammer
     - Train Conductor Hat
     - Craemon Totem
+    - Smaller Totem
+    - DonCoaleone Totem
+      
       
 Planned features:
 - Craemon "Colored Bundles"
