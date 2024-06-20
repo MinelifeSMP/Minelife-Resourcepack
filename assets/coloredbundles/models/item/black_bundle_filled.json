@@ -1,0 +1,6 @@
+{
+    "parent": "coloredbundles:item/black_bundle",
+    "textures": {
+        "layer0": "coloredbundles:item/black_bundle_filled"
+    }
+}
