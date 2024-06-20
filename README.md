@@ -14,8 +14,8 @@ Dye your bundles like shulkerboxes!
 ### Carved Pumpkin (Hats)
     [1] Train Conductor Hat
 ### Totems
-    [1] Craemon Totem
-    [2] Smaller Totem
+    [1] Smaller Totem
+    [2] Craemon Totem
     [3] DonCoaleone Totem
 ### Tools
     [1] Hammer (put on axe)
