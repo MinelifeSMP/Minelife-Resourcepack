@@ -1,22 +1,23 @@
-LICENSE
+Minelife Resource Pack License
 
-This resource pack was created by Craemon on behalf of NitwitsMC, specifically for the use on The MinelifeSMP!
-Please note, that it includes content made by other creators, sublicenses can be found in the "sublicenses" folder.
-Because of these circumstances the entire pack including all edits made by other people are licensed under the standart Craemon license:
+This resource pack was created by Craemon on behalf of NitwitsMC for use on The MinelifeSMP! It includes content from other creators; details and sublicenses can be found in the "sublicenses" folder. 
+Notably, the tool trims textures and models located in /assets/trimmable_tools are licensed under the MIT License by Apollo.
 
-    LICENSE
-    
+
+If you want to use this pack in any capacity here are the terms:
+
     You may not:
-    
-    Redistribute this resource pack as is or with modifications unless explicitly granted permission by Craemon (the creator).
-    You can just ask me though and will probably get permission, BUT ASK FIRST!
+    - Redistribute this resource pack as is or with modifications unless explicitly granted permission by Craemon. Please ask first!
     
     You may:
-    
-    Use this resource pack on your singleplayer or multiplayer world and modify it for personal use, if the credits and this license remain part of the resource pack.
-    
-    Include this resource pack in your social media content on any platform, however, I would appreciate being credited if the resource pack plays a key role or is the focus of the content.
-    
-    To credit me appropriately provide a link to the Modrinth page or Github repository!
-    
-    © 2024 Craemon - All Rights Reserved
+    - Use this resource pack in your single-player or multiplayer worlds and modify it for personal use, provided that credits and this license remain part of the resource pack.
+    - Include this resource pack in social media content, but I would appreciate credit if it plays a key role. Please link to the Modrinth page or GitHub repository.
+
+
+Contact Information:
+
+For permission requests or inquiries, please contact me: https://minelifesmp.com/contact.
+
+Disclaimer: This license is valid as of 2024 and may be updated in the future. Users are encouraged to check for the latest version.
+
+© 2024 Craemon - All Rights Reserved
