@@ -1,16 +1,22 @@
 LICENSE
 
-You may not:
+This resource pack was created by Craemon on behalf of NitwitsMC, specifically for the use on The MinelifeSMP!
+Please note, that it includes content made by other creators, sublicenses can be found in the "sublicenses" folder.
+Because of these circumstances the entire pack including all edits made by other people are licensed under the standart Craemon license:
 
-Redistribute this data pack as is or with modifications unless explicitly granted permission by Craemon (the creator).
-You can just ask me though and will probably get permission, BUT ASK FIRST!
-
-You may:
-
-Use this data pack on your singleplayer or multiplayer world and modify it for personal use, if the credits and this license remain part of the datapack.
-
-Include this data pack in your social media content on any platform, however, I would appreciate being credited if the data pack plays a key role or is the focus of the content.
-
-To credit me appropriately provide a link to the Modrinth page!
-
-© 2024 Craemon - All Rights Reserved
+    LICENSE
+    
+    You may not:
+    
+    Redistribute this resource pack as is or with modifications unless explicitly granted permission by Craemon (the creator).
+    You can just ask me though and will probably get permission, BUT ASK FIRST!
+    
+    You may:
+    
+    Use this resource pack on your singleplayer or multiplayer world and modify it for personal use, if the credits and this license remain part of the resource pack.
+    
+    Include this resource pack in your social media content on any platform, however, I would appreciate being credited if the resource pack plays a key role or is the focus of the content.
+    
+    To credit me appropriately provide a link to the Modrinth page or Github repository!
+    
+    © 2024 Craemon - All Rights Reserved
