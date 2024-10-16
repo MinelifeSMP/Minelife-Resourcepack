@@ -8,8 +8,6 @@ Create Pull requests to suggest content!
 # Features:
 ## Apollo "Tooltrims"
 Put armortrims on your tools!
-## Craemon "Colored Bundles"
-Dye your bundles like shulkerboxes!
 ## Custom Model Data
 ### Carved Pumpkin (Hats)
     [1] Train Conductor Hat
