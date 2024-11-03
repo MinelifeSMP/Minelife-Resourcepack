@@ -16,6 +16,7 @@ Put armortrims on your tools!
     [2] Craemon Totem
     [3] DonCoaleone Totem
     [4] Jo_0924 Totem
+    [5] Tekeyn Totem
 ### Tools
     [1] Hammer (put on axe)
 ### Weapons
