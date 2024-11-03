@@ -17,7 +17,9 @@ Put armortrims on your tools!
     [3] DonCoaleone Totem
     [4] Jo_0924 Totem
     [5] Tekeyn Totem
-### Tools
-    [1] Hammer (put on axe)
-### Weapons
+### Axe
+    [1] Hammer
+### Sword
     [1] Bamboo Staff
+### Mace
+    [1] (3D Mace coming soon)
