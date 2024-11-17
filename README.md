@@ -17,6 +17,7 @@ Put armortrims on your tools!
     [3] DonCoaleone Totem
     [4] Jo_0924 Totem
     [5] Tekeyn Totem
+    [6] Call an Ambulance Totem
 ### Axe
     [1] Hammer
 ### Sword
