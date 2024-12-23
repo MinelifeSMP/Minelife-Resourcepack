@@ -8,8 +8,6 @@ Create Pull requests to suggest content!
 # Features:
 ## Apollo "Tooltrims"
 Put armortrims on your tools!
-## Craemon "Colored Bundles"
-Dye your bundles like shulkerboxes!
 ## Custom Model Data
 ### Carved Pumpkin (Hats)
     [1] Train Conductor Hat
@@ -17,7 +15,12 @@ Dye your bundles like shulkerboxes!
     [1] Smaller Totem
     [2] Craemon Totem
     [3] DonCoaleone Totem
-### Tools
-    [1] Hammer (put on axe)
-### Weapons
+    [4] Jo_0924 Totem
+    [5] Tekeyn Totem
+    [6] Call an Ambulance Totem
+### Axe
+    [1] Hammer
+### Sword
     [1] Bamboo Staff
+### Mace
+    [1] (3D Mace coming soon)
