@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "custom:item/call_an_ambulance_totem"
+    "layer0": "custom:item/totem_craemon"
   }
 }

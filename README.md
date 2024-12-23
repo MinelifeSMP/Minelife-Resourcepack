@@ -8,8 +8,8 @@ Create Pull requests to suggest content!
 # Features:
 ## Apollo "Tooltrims"
 Put armortrims on your tools!
-## Custom Model Data
-### Carved Pumpkin (Hats)
+## Custom Models
+### Hats and Helmets
     [1] Train Conductor Hat
 ### Totems
     [1] Smaller Totem
@@ -18,9 +18,8 @@ Put armortrims on your tools!
     [4] Jo_0924 Totem
     [5] Tekeyn Totem
     [6] Call an Ambulance Totem
-### Axe
+### Tools
     [1] Hammer
-### Sword
+### Weapons
     [1] Bamboo Staff
-### Mace
-    [1] (3D Mace coming soon)
+    [2] (3D Mace coming "soon")
