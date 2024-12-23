@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by Craemon",
 	"textures": {
-		"0": "custom:item/smaller_totem",
-		"particle": "custom:item/smaller_totem"
+		"0": "custom:item/totem_small",
+		"particle": "custom:item/totem_small"
 	},
 	"elements": [
 		{
