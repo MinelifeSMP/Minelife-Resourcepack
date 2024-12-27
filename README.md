@@ -10,7 +10,7 @@ Create Pull requests to suggest content!
 Put armortrims on your tools!
 ## Custom Models
 ### Hats and Helmets
-    [1] Train Conductor Hat
+    [1] Train Conductor Hat (16 colors)
 ### Totems
     [1] Smaller Totem
     [2] Craemon Totem
