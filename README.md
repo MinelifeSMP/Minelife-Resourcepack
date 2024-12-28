@@ -8,7 +8,7 @@ Create Pull requests to suggest content!
 # Features:
 ## Apollo "Tooltrims"
 Put armortrims on your tools!
-## Custom Models
+## Custom Items
 ### Hats and Helmets
     [1] Train Conductor Hat (16 colors)
 ### Totems
