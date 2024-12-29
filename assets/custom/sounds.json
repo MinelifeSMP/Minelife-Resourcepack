@@ -1,0 +1,7 @@
+{
+    "call_an_ambulance": {
+        "sounds": [
+            "custom:call_an_ambulance"
+        ]
+    }
+}
