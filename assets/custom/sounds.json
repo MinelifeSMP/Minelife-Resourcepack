@@ -7,7 +7,7 @@
     "music_disc.ancient_tales": {
 	    "sounds": [
 		    {
-		    "name": "records/ancient_tales"
+		    "name": "custom:records/ancient_tales"
 		    }
 	    ]
     }
