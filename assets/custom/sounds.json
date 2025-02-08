@@ -3,5 +3,12 @@
         "sounds": [
             "custom:call_an_ambulance"
         ]
+    },
+    "music_disc.ancient_tales": {
+	    "sounds": [
+		    {
+		    "name": "records/ancient_tales"
+		    }
+	    ]
     }
 }
