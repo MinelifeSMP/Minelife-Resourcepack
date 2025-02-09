@@ -22,4 +22,4 @@ Put armortrims on your tools!
     [1] Hammer
 ### Weapons
     [1] Bamboo Staff
-    [2] (3D Mace coming "soon")
+    [2] 3D Mace
