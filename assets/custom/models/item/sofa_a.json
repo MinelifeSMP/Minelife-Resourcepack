@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Craemon",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "sofa_a",
-		"particle": "sofa_a"
+		"0": "custom:item/sofa",
+		"particle": "custom:item/sofa"
 	},
 	"elements": [
 		{
