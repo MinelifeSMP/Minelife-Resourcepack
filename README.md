@@ -23,3 +23,7 @@ Put armortrims on your tools!
 ### Weapons
     [1] Bamboo Staff
     [2] 3D Mace
+
+## Decoration
+### Furniture
+    [1] Sofa
