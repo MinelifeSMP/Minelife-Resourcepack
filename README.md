@@ -11,6 +11,7 @@ Put armortrims on your tools!
 ## Custom Items
 ### Hats and Helmets
     [1] Train Conductor Hat (16 colors)
+    [X] (Villager Hats planned)
 ### Totems
     [1] Smaller Totem
     [2] Craemon Totem
