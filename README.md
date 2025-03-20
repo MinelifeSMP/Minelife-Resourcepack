@@ -28,5 +28,3 @@ Put armortrims on your tools!
 ## Decoration
 ### Furniture
     [1] Sofa
-
-    commit
