@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "biome_in_a_bottle:item/lukewarm_ocean_large_ominous"
+  }
+}

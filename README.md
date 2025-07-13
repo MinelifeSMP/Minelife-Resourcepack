@@ -6,7 +6,9 @@ The main branch automatically syncs with the Minecraft server!
 Create Pull requests to suggest content!
 
 # Features:
-## Apollo "Tooltrims"
+## Craemon's "Biome In A Bottle"
+Craft botteled biomes and release them to replace biomes in an area.
+## Apollo's "Tooltrims"
 Put armortrims on your tools!
 ## Custom Items
 ### Hats and Helmets
@@ -29,5 +31,3 @@ Put armortrims on your tools!
 ## Decoration
 ### Furniture
     [1] Sofa
-
-test

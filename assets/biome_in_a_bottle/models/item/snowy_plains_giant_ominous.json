@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "biome_in_a_bottle:item/snowy_plains_giant_ominous"
+  }
+}
