@@ -21,6 +21,7 @@ Put armortrims on your tools!
     [6] Call an Ambulance Totem
 ### Tools
     [1] Hammer
+    [X] Watering can (planned)
 ### Weapons
     [1] Bamboo Staff
     [2] 3D Mace
