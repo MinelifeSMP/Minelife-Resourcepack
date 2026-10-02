@@ -1,7 +1,7 @@
 {
 	"pack": {
-		"description": "§e by §3 Craemon §e version §2 26.2  §2 on behalf of Nitwits",
-		"min_format": [88,0],
-		"max_format": [88,0]
+		"description": "§e by §3 Craemon §e version §2 26.3  §2 on behalf of Nitwits",
+		"min_format": [121,0],
+        "max_format": [121,0]
 	}
 }
